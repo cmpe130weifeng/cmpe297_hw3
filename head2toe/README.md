@@ -9,5 +9,6 @@ The result from fune-tuning: </br>
 {'support_loss': 0.00026232834, 'support_accuracy': 0.03125, 'query_loss': 0.0006715605, 'query_accuracy': 0.08} </br>
 The result from Head2toe: </br>
 {'support_loss': 1.7136148e-07, 'support_accuracy': 0.03125, 'query_loss': 4.3868536e-07, 'query_accuracy': 0.08} </br>
+In summary, the result from head2toe has less loss; it increases efficiency of fine-tunning and accuracy of linear probing.
 
 For further exploration, you can test it with other dataset, imagenetvitB16. 
