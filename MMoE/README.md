@@ -9,3 +9,5 @@ vallidation y0 loss is 0.0218 </br>
 validation y1 loss is 0.0217 </br> 
 validation y0 MAE is 0.1175 </br> 
 validation y1 MAE is  0.1181 </br>
+
+Colab Link: https://colab.research.google.com/drive/1jfbUDrrQ5Xpu-xDu0KqKg4R9OeZRAsNf#scrollTo=dUDwrINlwlCa
