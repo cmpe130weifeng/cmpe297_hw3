@@ -2,6 +2,7 @@
 
 The new transfer learning model, Head2Toe, takes the advantages of linear probing and fine-tuning. The key is to select important features from all layers in the model to train a classification head for the target-domain. It takes all the pre-trained layers' outputs, and then apply a linear layer to predict final output. The goal is to imporve linear probing, and reduce computation of fune-tuning, which overall for imporving transfer learning.
 </br>
+</br>
 I tried two model configuration: one with fune-tuning only, one with Head2toe. </br>
 The dataset I used is imagenetr50, it contains 50 training images per class. This dataset often used for image classification. </br>
 The result from fune-tuning: </br>
